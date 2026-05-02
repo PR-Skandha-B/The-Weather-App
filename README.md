@@ -161,19 +161,19 @@ This project taught me a lot about building real-world apps, not just simple dem
 ## Screenshots
 
 ### App Screen
-![App Screen](Screenshots\App Display.png)
+![App Screen](Screenshots/App Display.png)
 
 ### App Startup
-![App Startup](Screenshots\App startup.png)
+![App Startup](Screenshots/App startup.png)
 
 ### No Internet Connection
-![No Internet](Screenshots\Internet connection.png)
+![No Internet](Screenshots/Internet connection.png)
 
 ### API Error
-![Error](Screenshots\Search Error.png)
+![Error](Screenshots/Search Error.png)
 
 ### Search Result
-![Search Result](Screenshots\Search result.png)
+![Search Result](Screenshots/Search result.png)
 
 ---
 
